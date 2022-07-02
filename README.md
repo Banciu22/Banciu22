@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Banciu22
-- 👀 I’m interested in learning new techniques.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on developing.
-- 📫 How to reach me -> banciudarius07@gmail.com
